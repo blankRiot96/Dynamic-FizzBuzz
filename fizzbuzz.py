@@ -5,7 +5,7 @@ combos = {
 }
 
 output = ""
-for i in range(100+1):
+for i in range(1, 100+1):
     for special in combos:
         if i % special == 0:
             output += combos[special]
