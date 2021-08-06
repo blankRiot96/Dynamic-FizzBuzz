@@ -1,7 +1,7 @@
 combos = {
 3: "Fizz",
 5: "Buzz",
-7: "Oniichan UnGH"
+7: "Carot"
 }
 
 output = ""
